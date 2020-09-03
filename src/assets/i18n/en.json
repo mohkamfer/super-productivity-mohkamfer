@@ -90,7 +90,7 @@
       },
       "FORM": {
         "B_GENERATE_TOKEN": "Generate Token",
-        "FOLLOW_LINK": "Please open the following link and copy the auth code provided there into the the input field.",
+        "FOLLOW_LINK": "Please open the following link and copy the auth code provided there into the input field.",
         "L_ACCESS_TOKEN": "Access Token (generated from Auth Code)",
         "L_AUTH_CODE": "Auth Code",
         "L_ENABLE_SYNCING": "Enable Dropbox Syncing",
